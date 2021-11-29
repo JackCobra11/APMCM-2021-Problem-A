@@ -1,4 +1,4 @@
-# 2021.11.28 cv2dector.py
+# 2021.11.28 cv2detector.py
 # Created by Jack Cobra
 # Python 3.9.9
 # requirements: opencv-pyhton, numpy
