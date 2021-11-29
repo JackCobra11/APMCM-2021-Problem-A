@@ -3,9 +3,11 @@
 对于Edge Detecting，还可以用Mathematica的EdgeDetect。
 
 ## 使用方法
-'''
+```
 pip install -r requirement.txt
-'''
+python cv2detector.py
+
+```
 
 ## Problem A
 ## Image Edge Analysis and Application
