@@ -1,5 +1,6 @@
 # APMCM-2021-Problem-A
-没参加这次比赛，试了下用PY写了第一小问，不知道对不对，可以再添加个滚动条设置Threshold
+没参加这次比赛，试了下用PY写了第一小问，不知道对不对，可以再添加个滚动条设置Threshold。
+对于Edge Detecting，还可以用Mathematica的EdgeDetect。
 
 ## Problem A
 ## Image Edge Analysis and Application
