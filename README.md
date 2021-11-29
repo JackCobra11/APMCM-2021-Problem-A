@@ -5,8 +5,8 @@
 ## 使用方法
 ```
 pip install -r requirement.txt
-python cv2detector.py
 
+python cv2detector.py
 ```
 
 ## Problem A
